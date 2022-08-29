@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "K Shoemaker"
 date: "Data 2401"
 output: html_document
 ---
@@ -20,6 +20,8 @@ Reminder: There is a "Markdown Help" page available in RStudio.
 Below the "Your work here" section header, do the following 3 things. To turn this in, knit the RMarkdown file, and zip and submit the html.  
 
 1. Make a subsection called "Wise words". Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
+
+> to be or not to be
 
 2. Make a subsection called "My semester". Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
 
